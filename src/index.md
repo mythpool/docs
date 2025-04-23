@@ -7,7 +7,7 @@ hero:
   text: ""
   tagline: 🎯 A Fully Fair, Transparent & Decentralized Lucky Draw Platform on Solana & Switchboard 🍀✨
   actions:
-    - theme: brand
+    - theme: alt
       text: Documentation
       link: /markdown-examples
 
