@@ -1,0 +1,6 @@
+:root {
+    /* --vp-home-hero-name-color: black; */
+    --vp-c-brand: #42b983;         /* 主品牌色 */
+    --vp-c-brand-light: #5cd6a5;   /* hover 时颜色 */
+    --vp-c-brand-dark: #2c8f6b;    /* 深色主题下颜色 */
+}
