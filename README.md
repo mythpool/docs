@@ -1,6 +1,6 @@
 # 🌐 [Mythpool](https://www.mythpool.com) · 📘 [Docs](https://docs.mythpool.com)
 
-> A Fully Fair, Transparent & Decentralized Betting Platform on **Solana** & **Switchboard** 🎰✨
+> 🎯 A Fully Fair, Transparent & Decentralized Lucky Draw Platform on Solana & Switchboard 🍀✨
 
 ---
 
