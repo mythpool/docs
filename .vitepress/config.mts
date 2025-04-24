@@ -43,7 +43,7 @@ export default defineConfig({
       copyright: 'Copyright © 2025-present Mythpool Lab'
     }
   },
-  srcDir:'./src',
+  srcDir:'./docs',
 })
 
 
