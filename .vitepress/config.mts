@@ -1,45 +1,21 @@
 import { defineConfig } from 'vitepress'
+import { localesConfig } from './configLocales'
 
 export default defineConfig({
-  title: "MythPool",
+  title: "MythPool - docs",
   description: "Myth Pool - A fair, transparent, decentralized blockchain pool platform, making every draw a worthwhile experience.",
   base: '/',
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: './logo.png' }]
   ],
-  locales: {
-    root: {
-      label: 'English',
-      lang: 'en',
-      link: '/'
-    },
-    zh: {
-      label: '简体中文',
-      lang: 'zh', 
-      link: '/zh/' 
-    }
-  },
+  locales: localesConfig,
   themeConfig: {
     logo: "./logo.png", 
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/markdown-examples' }
-    ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/mythpool' }
+      { icon: 'github', link: 'https://github.com/mythpool' },
+      { icon: 'twitter', link: 'https://x.com/mythpool' }
     ],
-
     
     footer: {
       message: 'Released under the MIT License.',
