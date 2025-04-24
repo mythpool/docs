@@ -45,6 +45,8 @@ jobs:
         run: yarn docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
       - name: Check if dist exists
         run: ls .vitepress/dist
+      - name: Add CNAME file
+        run: echo "docs.mythpool.com" > .vitepress/dist/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
