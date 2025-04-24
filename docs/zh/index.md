@@ -1,15 +1,14 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "MythPool"
-  text: ""
+  text: "Solana & Switchboard"
   tagline: 🎯 Solana 和 Switchboard 上完全公平、透明且去中心化的抽奖平台 🍀✨
   actions:
-    - theme: alt
+    - theme: brand
       text: 查看文档
-      link: /markdown-examples
+      link: /introduction
 
 features:
   - title: 🎯 公平

@@ -3,12 +3,12 @@ layout: home
 
 hero:
   name: "MythPool"
-  text: ""
+  text: "Solana & Switchboard"
   tagline: 🎯 A Fully Fair, Transparent & Decentralized Lucky Draw Platform on Solana & Switchboard 🍀✨
   actions:
-    - theme: alt
+    - theme: brand
       text: Documentation
-      link: /markdown-examples
+      link: /introduction
 
 features:
 - title: 🎯 Fairness
