@@ -17,7 +17,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    logo: "/image/256X256.png", 
+    logo: "./public/image/256X256.png", 
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/markdown-examples' }
