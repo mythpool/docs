@@ -4,6 +4,9 @@ export default defineConfig({
   title: "MythPool",
   description: "Myth Pool - A fair, transparent, decentralized blockchain pool platform, making every draw a worthwhile experience.",
   base: '/',
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: './logo.png' }]
+  ],
   locales: {
     root: {
       label: 'English',
@@ -17,7 +20,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    logo: "./image/256X256.png", 
+    logo: "./logo.png", 
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/markdown-examples' }
