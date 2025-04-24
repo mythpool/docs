@@ -44,11 +44,11 @@ jobs:
       - name: Build with VitePress
         run: yarn docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
       - name: Check if dist exists
-        run: ls dist
+        run: ls docs/.vitepress/dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: docs/.vitepress/dist
 
   # Deployment job
   deploy:
