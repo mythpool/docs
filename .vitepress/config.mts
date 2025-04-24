@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MythPool",
   description: "Myth Pool - A fair, transparent, decentralized blockchain pool platform, making every draw a worthwhile experience.",
-  base: '/',
+  base: '/docs/',
   locales: {
     root: {
       label: 'English',
