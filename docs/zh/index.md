@@ -9,6 +9,12 @@ hero:
     - theme: brand
       text: 查看文档
       link: /introduction
+    - theme: alt
+      text: MythPool
+      link: https://www.mythpool.com
+    - theme: alt
+      text: Github
+      link: https://github.com/mythpool
 
 features:
   - title: 🎯 公平

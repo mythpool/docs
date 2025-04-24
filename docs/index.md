@@ -9,7 +9,12 @@ hero:
     - theme: brand
       text: Documentation
       link: /introduction
-
+    - theme: alt
+      text: MythPool
+      link: https://www.mythpool.com
+    - theme: alt
+      text: Github
+      link: https://github.com/mythpool
 features:
 - title: 🎯 Fairness
   details: All operations are fully managed by smart contracts, ensuring tamper-proof logic and execution. We use Switchboard VRF to generate verifiable, unbiased randomness — so every draw is provably fair.
