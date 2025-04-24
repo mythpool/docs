@@ -44,6 +44,7 @@ export default defineConfig({
     }
   },
   srcDir:'./src',
+  outDir: './dist',
 })
 
 
