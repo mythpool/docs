@@ -15,6 +15,8 @@ export const localesConfig = {
                   items: [
                     { text: 'Project Overview', link: '/introduction' },
                     { text: 'System Architecture', link: '/system-architecture' },
+                    { text: 'What is a Regular Pool?', link: '/regular-pool' },
+                    { text: 'What is a Public Pool?', link: '/public-pool' },
                   ]
                 },
                 {
@@ -24,7 +26,8 @@ export const localesConfig = {
                     { text: 'Create a Lottery Pool', link: '/how-to-create-pool' },
                     { text: 'Claim Purchase Rewards', link: '/claim-purchase-reward' },
                     { text: 'Claim Creation Rewards', link: '/claim-creator-reward' },
-                    { text: 'Common Questions (FAQ)', link: '/faq' },
+                    { text: 'Getting Public Tickets', link: '/how-get-public-ticket' },
+                    // { text: 'Common Questions (FAQ)', link: '/faq' },
                   ]
                 },
                 {
@@ -73,6 +76,8 @@ export const localesConfig = {
                 items: [
                   { text: '项目介绍', link: '/zh/introduction' },
                   { text: '系统架构', link: '/zh/system-architecture' },
+                  { text: '什么是普通池?', link: '/zh/regular-pool' },
+                  { text: '什么是公共池?', link: '/zh/public-pool' },
                 ]
               },
               {
@@ -82,7 +87,8 @@ export const localesConfig = {
                   { text: '创建彩票池', link: '/zh/how-to-create-pool' },
                   { text: '领取购买奖励', link: '/zh/claim-purchase-reward' },
                   { text: '领取创建奖励', link: '/zh/claim-creator-reward' },
-                  { text: '常见问题QA', link: '/zh/faq' },
+                  { text: '如何获取公共彩票', link: '/zh/how-get-public-ticket' },
+                  // { text: '常见问题QA', link: '/zh/faq' },
                 ]
               },
               {
