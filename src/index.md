@@ -12,11 +12,13 @@ hero:
       link: /markdown-examples
 
 features:
-  - title: 🤗 Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+- title: 🎯 Fairness
+  details: All operations are fully managed by smart contracts, ensuring tamper-proof logic and execution. We use Switchboard VRF to generate verifiable, unbiased randomness — so every draw is provably fair.
+
+- title: 🔍 Transparency
+  details: Every line of code is open-source and publicly auditable. Anyone can inspect, verify, or contribute to the project. No hidden logic, no trust assumptions — just clean, verifiable smart contracts.
+
+- title: 💸 Free Access
+  details: Anyone can create their own lottery pool and start their journey toward fortune. 
 ---
 
