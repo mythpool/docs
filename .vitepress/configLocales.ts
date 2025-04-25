@@ -22,17 +22,18 @@ export const localesConfig = {
                 {
                   text: '🚀 Getting Started',
                   items: [
-                    { text: 'Buy with Wallet', link: '/how-to-buy' },
+                    { text: 'Log in with Wallet', link: '/how-login' },
+                    { text: 'Buy lottery tickets', link: '/how-to-buy' },
                     { text: 'Create a Lottery Pool', link: '/how-to-create-pool' },
                     { text: 'Claim Purchase Rewards', link: '/claim-purchase-reward' },
                     { text: 'Claim Creation Rewards', link: '/claim-creator-reward' },
-                    { text: 'Getting Public Tickets', link: '/how-get-public-ticket' },
-                    // { text: 'Common Questions (FAQ)', link: '/faq' },
+                    { text: 'Claim Public Tickets', link: '/how-get-public-ticket' },
                   ]
                 },
                 {
                   text: '⚖️ Rules & Policies',
                   items: [
+                    { text: 'How Results Are Calculated', link: '/how-result-calculated' },
                     { text: 'Regular Pool Rules', link: '/rules-regular-draw' },
                     { text: 'Regular Fund Allocation', link: '/rules-regular-fund' },
                     { text: 'Public Pool Rules', link: '/rules-public-draw' },
@@ -83,17 +84,18 @@ export const localesConfig = {
               {
                 text: '🚀 快速开始',
                 items: [
-                  { text: '连接钱包购买彩票', link: '/zh/how-to-buy' },
+                  { text: '连接钱包验证登录', link: '/zh/how-login' },
+                  { text: '购买彩票', link: '/zh/how-to-buy' },
                   { text: '创建彩票池', link: '/zh/how-to-create-pool' },
                   { text: '领取购买奖励', link: '/zh/claim-purchase-reward' },
                   { text: '领取创建奖励', link: '/zh/claim-creator-reward' },
                   { text: '如何获取公共彩票', link: '/zh/how-get-public-ticket' },
-                  // { text: '常见问题QA', link: '/zh/faq' },
                 ]
               },
               {
                 text: '️⚖️ 规则说明',
                 items: [
+                  { text: '开奖结果计算', link: '/zh/how-result-calculated' },
                   { text: '普通池开奖规则', link: '/zh/rules-regular-draw' },
                   { text: '普通池资金分配', link: '/zh/rules-regular-fund' },
                   { text: '公共池开奖规则介绍', link: '/zh/rules-public-draw' },
