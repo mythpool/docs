@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 查看文档
-      link: /introduction
+      link: /zh/introduction
     - theme: alt
       text: MythPool
       link: https://www.mythpool.com

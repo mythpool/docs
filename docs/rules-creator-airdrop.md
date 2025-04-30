@@ -17,7 +17,7 @@ To encourage users to actively create lottery pools, **MythPool** introduces a *
 
 ## 📌 Claiming Rules
 
-- Airdrops will be **automatically sent** to the creator’s wallet once the pool is successfully created
+- This airdrop reward can be manually claimed by the creator from the pool list after the draw is completed.
 - Only valid for pools using currently supported tokens (e.g., **USDC**)
 - If a wallet creates multiple eligible pools, it can receive multiple airdrops (calculated separately per pool)
 

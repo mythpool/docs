@@ -32,5 +32,5 @@ Once claimed, you can view your Public Pool tickets by:
 
 
 ## 💡 Tips
-
-- Public Pool tickets are **automatically distributed** based on your lottery participation — no need to buy them.
+- Public pool lottery tickets are manually collected by the system on the pool homepage based on your participation, and do not need to be purchased separately.
+- If you forget to collect the public pool lottery tickets, don't panic, you can come back to collect them at any time. The lottery tickets you collect will belong to the public pool of the day and the announcement pool of this week.

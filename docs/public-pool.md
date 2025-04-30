@@ -13,7 +13,7 @@ During each pool's draw, the system will automatically transfer a portion of the
 
 ## 🎟️ Ticket Claim Rules
 
-All non-winning users can claim public pool tickets after the draw on the pool's homepage. The specific claiming process is as follows:
+All participants in the regular pool who did not win can claim a public pool ticket on the pool's main page after the draw. The specific claiming method is as follows:
 
 - Winning users **cannot claim** public pool tickets.
 - Non-winning users can **manually claim** public pool tickets.

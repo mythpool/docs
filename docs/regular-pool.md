@@ -4,7 +4,7 @@ A regular pool is a lottery pool created voluntarily by users, with a clear tick
 
 ## 🛡️ Staking Guarantee
 
-When creating a regular pool, users need to stake **2%** of the pool amount as a guarantee. This is to prevent malicious pool creation and ensure the proper functioning of the pool. The staked guarantee will be automatically returned to the pool creator along with the pool rewards when the lottery is drawn. If the pool meets the minimum sales quota and expires, the staked amount will also be refunded.
+When creating a regular pool, the user is required to stake **2%** of the pool amount as a security deposit. This is to prevent malicious pool creation and to ensure proper operation of the pool. The staked deposit will be automatically returned to the pool creator along with the creation reward when the draw is completed. If the pool reaches the minimum sales threshold and carries over to the next draw, the deposit will also be refunded.
 
 ## 💰 Minimum Sales Quota
 

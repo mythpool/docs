@@ -28,7 +28,7 @@ To encourage continued participation and reduce user loss, **non-winning users**
 ## ❗ Important Notes
 
 - All distributions are executed **on-chain by smart contracts**, ensuring **immutability and full transparency**.
-- Airdrops will be distributed within a defined timeframe after the drawing, and can be verified through the frontend interface or blockchain explorers.
+- The airdrop reward can be manually claimed on the pool's main page after the draw is completed. Users can verify the claim through the front-end interface or a blockchain explorer.
 - The value and utility of Myth tokens will grow as the platform evolves and expands its governance model.
 
 
